@@ -8,6 +8,9 @@
 
 #import "ViewController.h"
 
+// UILabel -> UIView -> UIResponder -> NSObject
+// UIButton -> UIControl -> UIView -> UIResponder -> NSObject
+
 @interface ViewController ()
 
 @end
